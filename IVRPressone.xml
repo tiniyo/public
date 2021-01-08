@@ -1,0 +1,6 @@
+<Response>
+<Gather input="speech dtmf" timeout="3" numDigits="1" action="+url+"GatherBookingHead>
+<Say>Press 1 to book table.</Say>
+</Gather>
+<Say>We didnot receive any input. Goodbye!</Say>
+</Response>
