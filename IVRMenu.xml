@@ -1,5 +1,6 @@
 <Response>
-<Say voice="man" language="en" action="https://enstxfkgxlq8d.x.pipedream.net" Redirect="https://raw.githubusercontent.com/tiniyo/public/IVRMenu/IVRPressone.xml">
+<Say voice="man" language="en" action="https://enstxfkgxlq8d.x.pipedream.net">
 Thank you for calling Barbeque nation, Where customer service is our priority
 </Say>
+<Redirect method="GET">https://raw.githubusercontent.com/tiniyo/public/IVRMenu/IVRPressone.xml</Redirect>
 </Response>
