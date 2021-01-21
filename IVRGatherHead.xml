@@ -1,0 +1,5 @@
+<Response>
+<Gather input="speech dtmf" timeout="3" finishOnKey="#">
+<Say>how many people are joining with you for dineout? press number from your touch pad. like 1, 4 and # for 14 people</Say>
+</Gather>
+</Response>

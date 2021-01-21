@@ -1,0 +1,6 @@
+<Response>
+<Gather input="speech dtmf" numDigits="1" action="">
+<Say>Press 1 to book table today, Press 2 to book table tomorrow and Press 3 for custom date.</Say>
+</Gather>
+<Say>We didnot receive any input. Goodbye!</Say>
+</Response>

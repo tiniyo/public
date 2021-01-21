@@ -1,0 +1,6 @@
+<Response>
+<Gather input="speech dtmf" timeout="3" numDigits="1" action="">
+<Say>Press 1 for breakfast, press 2 for lunch, press 3 for dinner</Say>
+</Gather>
+<Say>We didnot receive any input. Goodbye!</Say>
+</Response>
