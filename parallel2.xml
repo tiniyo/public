@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
 	<Dial answerOnBridge="true">
-		<Sip>sip:komal1606538513513@phone.tiniyo.com</Sip>
-		<Number>919904215575</Number>
-		<Number>919036950678</Number>
-		<Number>919353107780</Number>
+		<Sip >sip:komal1606538513513@phone.tiniyo.com</Sip>
 	</Dial>
 </Response>
