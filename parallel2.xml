@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+	<Dial answerOnBridge="true">
+		<Number>9199450736012</Number>
+		<Number>9199450736013</Number>
+		<Number>9199450736014</Number>
+	</Dial>
+</Response>
