@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
 	<Dial answerOnBridge="true" callerid="919945073606">
-		<Sip >sip:komal1606538513513@phone.tiniyo.com</Sip>
+		<User>sip:komal1606538513513@phone.tiniyo.com</User>
 	</Dial>
 </Response>
