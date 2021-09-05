@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+	<Dial answerOnBridge="true" callerid="919945073606">
+		<Sip>sip:chandra1628266554999@phone.tiniyo.com</Sip>
+	</Dial>
+</Response>
