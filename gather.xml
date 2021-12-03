@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Gather input="dtmf" timeout="5" numDigits="1" action="https://rbaskets.in/t0t9pqhdtmftesting">
+        <Say>Please press 1 sales and 2 for support.</Say>
+    </Gather>
+</Response>
